@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 640px;
+    
+}
+.square {
+
+    background-color: white;
+
+    
+}
+
+#title {
+    color: white;
+    margin-bottom: 40px;
+}
+
+#again {
+    margin-bottom: 40px;
+    font-size: 20px;
+}
