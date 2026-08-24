@@ -21,10 +21,18 @@ body {
 
 #title {
     color: white;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 #again {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     font-size: 20px;
+}
+
+#rgb {
+    margin-bottom: 20px;
+}
+
+#gradient {
+    margin-bottom: 20px;
 }
